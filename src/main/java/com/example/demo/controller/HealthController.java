@@ -33,7 +33,7 @@ public class HealthController {
                 "<div style='text-align: center; margin-top: 100px; font-family: Arial;'>" +
                         "<h1 style='color: %s; font-size: 4em; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);'>%s</h1>" +
                         "<h2 style='color: #333;'>Version: %s</h2>" +
-                        "<h3 style='color: #666;'>🚀 GREEEEEEEEEn-Green 배포 테스트</h3>" +
+                        "<h3 style='color: #666;'>🚀 GREEEEEEEEEnffffff-Green 배포 테스트</h3>" +
                         "<p style='color: #999; font-size: 1.2em;'>현재 시간: %s</p>" +
                         "<div style='margin-top: 30px;'>" +
                         "<a href='/health' style='background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 5px;'>Health Check</a>" +
